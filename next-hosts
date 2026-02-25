@@ -1,20 +1,65 @@
 # FCM Host Start
 
-172.253.62.188               mtalk.google.com
-192.178.213.188              alt1-mtalk.google.com
-172.253.116.188              alt2-mtalk.google.com
-192.178.223.188              alt3-mtalk.google.com
-173.194.76.188               alt4-mtalk.google.com
-142.250.102.188              alt5-mtalk.google.com
-192.178.213.188              alt6-mtalk.google.com
-142.251.127.188              alt7-mtalk.google.com
-192.178.163.188              alt8-mtalk.google.com
-64.233.180.91                dl.google.com
-192.178.155.136              dl.l.google.com
+140.82.112.26                alive.github.com
+140.82.113.5                 api.github.com
+140.82.114.22                api.individual.githubcopilot.com
+185.199.111.133              avatars.githubusercontent.com
+185.199.109.133              avatars0.githubusercontent.com
+185.199.109.133              avatars1.githubusercontent.com
+185.199.108.133              avatars2.githubusercontent.com
+185.199.110.133              avatars3.githubusercontent.com
+185.199.110.133              avatars4.githubusercontent.com
+185.199.108.133              avatars5.githubusercontent.com
+185.199.111.133              camo.githubusercontent.com
+140.82.114.22                central.github.com
+185.199.109.133              cloud.githubusercontent.com
+140.82.114.10                codeload.github.com
+140.82.114.21                collector.github.com
+185.199.111.133              desktop.githubusercontent.com
+185.199.110.133              favicons.githubusercontent.com
+140.82.112.4                 gist.github.com
+52.217.132.57                github-cloud.s3.amazonaws.com
+16.182.105.209               github-com.s3.amazonaws.com
+3.5.21.21                    github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.16.146                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.17.187                   github-production-user-asset-6210df.s3.amazonaws.com
+192.0.66.2                   github.blog
+140.82.112.3                 github.com
+140.82.113.18                github.community
+185.199.110.154              github.githubassets.com
+151.101.129.194              github.global.ssl.fastly.net
+185.199.110.153              github.io
+185.199.111.133              github.map.fastly.net
+185.199.108.153              githubstatus.com
+140.82.114.25                live.github.com
+185.199.109.133              media.githubusercontent.com
+185.199.111.133              objects.githubusercontent.com
+13.107.42.16                 pipelines.actions.githubusercontent.com
+185.199.111.133              raw.githubusercontent.com
+185.199.108.133              user-images.githubusercontent.com
+13.107.213.69                vscode.dev
+140.82.113.22                education.github.com
+185.199.110.133              private-user-images.githubusercontent.com
+185.199.108.133              raw.github.com
+138.91.182.224               copilot-proxy.githubusercontent.com
+142.250.141.188              mtalk.google.com
+192.178.128.188              alt1-mtalk.google.com
+172.253.135.188              alt2-mtalk.google.com
+172.253.145.188              alt3-mtalk.google.com
+74.125.27.188                alt4-mtalk.google.com
+192.178.209.188              alt5-mtalk.google.com
+192.178.152.188              alt6-mtalk.google.com
+142.250.96.188               alt7-mtalk.google.com
+64.233.177.188               alt8-mtalk.google.com
+142.251.40.110               dl.google.com
+142.251.41.14                dl.l.google.com
+142.250.101.188              mtalk4.google.com
+142.250.101.188              mtalk-staging.google.com
+142.250.141.188              mtalk-dev.google.com
 
 # Please Star : https://github.com/yangFenTuoZi/fcm-hosts
 # Thanks : https://github.com/ineo6/hosts
 
-# Update at: 2026-02-25 10:34:41
+# Update at: 2026-02-25 14:24:27
 
 # FCM Host End
