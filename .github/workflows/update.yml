@@ -47,6 +47,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITFCM_TOKEN }}
           repository: budaig/hostsgitfcm
+          force: true
 
       - name: Move files
         run: |
